@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/andreeagrijuc/quotes-and-background/static/css/main.4c316c64.chunk.css",
-    "main.js": "/andreeagrijuc/quotes-and-background/static/js/main.44fe029c.chunk.js",
-    "main.js.map": "/andreeagrijuc/quotes-and-background/static/js/main.44fe029c.chunk.js.map",
-    "runtime-main.js": "/andreeagrijuc/quotes-and-background/static/js/runtime-main.0a6b2ddd.js",
-    "runtime-main.js.map": "/andreeagrijuc/quotes-and-background/static/js/runtime-main.0a6b2ddd.js.map",
-    "static/js/2.8f582c7d.chunk.js": "/andreeagrijuc/quotes-and-background/static/js/2.8f582c7d.chunk.js",
-    "static/js/2.8f582c7d.chunk.js.map": "/andreeagrijuc/quotes-and-background/static/js/2.8f582c7d.chunk.js.map",
+    "main.js": "/andreeagrijuc/quotes-and-background/static/js/main.271a9f74.chunk.js",
+    "main.js.map": "/andreeagrijuc/quotes-and-background/static/js/main.271a9f74.chunk.js.map",
+    "runtime-main.js": "/andreeagrijuc/quotes-and-background/static/js/runtime-main.dc998a18.js",
+    "runtime-main.js.map": "/andreeagrijuc/quotes-and-background/static/js/runtime-main.dc998a18.js.map",
+    "static/js/2.b6c1e3ba.chunk.js": "/andreeagrijuc/quotes-and-background/static/js/2.b6c1e3ba.chunk.js",
+    "static/js/2.b6c1e3ba.chunk.js.map": "/andreeagrijuc/quotes-and-background/static/js/2.b6c1e3ba.chunk.js.map",
     "index.html": "/andreeagrijuc/quotes-and-background/index.html",
-    "precache-manifest.d3da0e311aa46c5bf5e980e8f894238f.js": "/andreeagrijuc/quotes-and-background/precache-manifest.d3da0e311aa46c5bf5e980e8f894238f.js",
+    "precache-manifest.428def6c7c996190547b9391523dd894.js": "/andreeagrijuc/quotes-and-background/precache-manifest.428def6c7c996190547b9391523dd894.js",
     "service-worker.js": "/andreeagrijuc/quotes-and-background/service-worker.js",
     "static/css/main.4c316c64.chunk.css.map": "/andreeagrijuc/quotes-and-background/static/css/main.4c316c64.chunk.css.map",
-    "static/js/2.8f582c7d.chunk.js.LICENSE.txt": "/andreeagrijuc/quotes-and-background/static/js/2.8f582c7d.chunk.js.LICENSE.txt"
+    "static/js/2.b6c1e3ba.chunk.js.LICENSE.txt": "/andreeagrijuc/quotes-and-background/static/js/2.b6c1e3ba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a6b2ddd.js",
-    "static/js/2.8f582c7d.chunk.js",
+    "static/js/runtime-main.dc998a18.js",
+    "static/js/2.b6c1e3ba.chunk.js",
     "static/css/main.4c316c64.chunk.css",
-    "static/js/main.44fe029c.chunk.js"
+    "static/js/main.271a9f74.chunk.js"
   ]
 }
