@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/andreeagrijuc/quotes-and-background/static/css/main.4c316c64.chunk.css",
-    "main.js": "/andreeagrijuc/quotes-and-background/static/js/main.271a9f74.chunk.js",
-    "main.js.map": "/andreeagrijuc/quotes-and-background/static/js/main.271a9f74.chunk.js.map",
-    "runtime-main.js": "/andreeagrijuc/quotes-and-background/static/js/runtime-main.dc998a18.js",
-    "runtime-main.js.map": "/andreeagrijuc/quotes-and-background/static/js/runtime-main.dc998a18.js.map",
-    "static/js/2.b6c1e3ba.chunk.js": "/andreeagrijuc/quotes-and-background/static/js/2.b6c1e3ba.chunk.js",
-    "static/js/2.b6c1e3ba.chunk.js.map": "/andreeagrijuc/quotes-and-background/static/js/2.b6c1e3ba.chunk.js.map",
-    "index.html": "/andreeagrijuc/quotes-and-background/index.html",
-    "precache-manifest.428def6c7c996190547b9391523dd894.js": "/andreeagrijuc/quotes-and-background/precache-manifest.428def6c7c996190547b9391523dd894.js",
-    "service-worker.js": "/andreeagrijuc/quotes-and-background/service-worker.js",
-    "static/css/main.4c316c64.chunk.css.map": "/andreeagrijuc/quotes-and-background/static/css/main.4c316c64.chunk.css.map",
-    "static/js/2.b6c1e3ba.chunk.js.LICENSE.txt": "/andreeagrijuc/quotes-and-background/static/js/2.b6c1e3ba.chunk.js.LICENSE.txt"
+    "main.css": "/quotes-and-background/static/css/main.4c316c64.chunk.css",
+    "main.js": "/quotes-and-background/static/js/main.a353fdfa.chunk.js",
+    "main.js.map": "/quotes-and-background/static/js/main.a353fdfa.chunk.js.map",
+    "runtime-main.js": "/quotes-and-background/static/js/runtime-main.868baaf4.js",
+    "runtime-main.js.map": "/quotes-and-background/static/js/runtime-main.868baaf4.js.map",
+    "static/js/2.b6c1e3ba.chunk.js": "/quotes-and-background/static/js/2.b6c1e3ba.chunk.js",
+    "static/js/2.b6c1e3ba.chunk.js.map": "/quotes-and-background/static/js/2.b6c1e3ba.chunk.js.map",
+    "index.html": "/quotes-and-background/index.html",
+    "precache-manifest.8239ddfeaa06b5dfe2358a7c40cf07a0.js": "/quotes-and-background/precache-manifest.8239ddfeaa06b5dfe2358a7c40cf07a0.js",
+    "service-worker.js": "/quotes-and-background/service-worker.js",
+    "static/css/main.4c316c64.chunk.css.map": "/quotes-and-background/static/css/main.4c316c64.chunk.css.map",
+    "static/js/2.b6c1e3ba.chunk.js.LICENSE.txt": "/quotes-and-background/static/js/2.b6c1e3ba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc998a18.js",
+    "static/js/runtime-main.868baaf4.js",
     "static/js/2.b6c1e3ba.chunk.js",
     "static/css/main.4c316c64.chunk.css",
-    "static/js/main.271a9f74.chunk.js"
+    "static/js/main.a353fdfa.chunk.js"
   ]
 }
